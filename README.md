@@ -2,6 +2,9 @@
 # 🪙 Heads or Tails
 
 Heads or tails? Now it's easy to decide! And simple.
+
+![image](https://raw.githubusercontent.com/NotYello/Heads-or-Tails/main/screenshot.png)
+
 ## 📋 Requirements
 
 • tkinter
