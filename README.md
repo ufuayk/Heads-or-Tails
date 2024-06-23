@@ -40,7 +40,7 @@ Heads or tails? Now it's easy to decide! And simple.
   
 ## 👷🏻‍♂️ Author
 
-• [@NotYello](https://www.github.com/NotYello) for design and development.
+• [@Yello](https://www.github.com/CoderYello) for design and development.
 
   
 ## 📑 License
