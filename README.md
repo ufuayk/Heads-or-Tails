@@ -3,7 +3,7 @@
 
 Heads or tails? Now it's easy to decide! And simple.
 
-![image](https://raw.githubusercontent.com/CoderYello/Heads-or-Tails/main/screenshot.png)
+![image](https://raw.githubusercontent.com/ufuayk/Heads-or-Tails/main/screenshot.png)
 
 ## 📋 Requirements
 
@@ -16,7 +16,7 @@ Heads or tails? Now it's easy to decide! And simple.
 • Clone the project;
 
 ```bash
-  git clone https://github.com/CoderYello/Heads-or-Tails
+  git clone https://github.com/ufuayk/Heads-or-Tails
 ```
 
 • Go to the project directory;
@@ -40,7 +40,7 @@ Heads or tails? Now it's easy to decide! And simple.
   
 ## 👷🏻‍♂️ Author
 
-• [@Yello](https://www.github.com/CoderYello) for design and development.
+• [@ufuayk](https://www.github.com/ufuayk) for design and development.
 
   
 ## 📑 License
